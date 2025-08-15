@@ -20,7 +20,7 @@
 - **OS / pathlib** para gestión de rutas de archivos
 - **ttk** para comboboxes y scrollbars estilizados
 
-## 📂 Estructura del proyecto
+## 📂 Estructura del proyecto:
 cineplus/
 │
 ├── main_gui.py # Interfaz principal
@@ -48,12 +48,12 @@ python main_gui.py
 
 Puedes usar main_gui.exe para ejecutarlo sin python.
 
-💡 Notas importantes
+💡 Notas importantes:
 Si no se encuentran las imágenes o sonidos, la app funcionará igualmente, usando valores por defecto.
 
 Los sonidos .wav funcionan únicamente en Windows (con winsound). En otros sistemas se omitirán sin error.
 
-📜 Licencia
+📜 Licencia:
 Este proyecto es de uso libre para fines educativos y personales.
 
 ✨ CinePlus — Organiza tu cine como un profesional.
