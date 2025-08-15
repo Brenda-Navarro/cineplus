@@ -46,6 +46,8 @@ pip install pillow
 Ejecutar la aplicación
 python main_gui.py
 
+Puedes usar main_gui.exe para ejecutarlo sin python.
+
 💡 Notas importantes
 Si no se encuentran las imágenes o sonidos, la app funcionará igualmente, usando valores por defecto.
 
