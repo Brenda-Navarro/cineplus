@@ -38,7 +38,7 @@ cineplus/
 ## 📥 Instalación y uso
 1. **Clonar el repositorio**  
    ```bash
-   git clone https://github.com/tuusuario/cineplus.git
+   git clone https://github.com/Brenda-Navarro/cineplus.git
    cd cineplus
 
 Instalar dependencias
